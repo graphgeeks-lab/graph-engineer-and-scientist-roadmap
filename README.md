@@ -13,3 +13,10 @@ We have developed two distinct roadmaps, each with its unique focus, yet converg
 While these roadmaps have distinct focuses, they also converge at various points, emphasizing the importance of interdisciplinary skills and collaboration in the field of graph technology. Whether you aspire to become a graph engineer, a graph data scientist, or a hybrid professional combining aspects of both roles, our repository aims to provide you with the resources and guidance needed to succeed.
 
 We encourage you to explore the roadmaps, engage with the content, and contribute to the ongoing evolution of this repository. Together, let's advance our understanding and utilization of graph data to tackle complex challenges and drive innovation across industries.
+
+Inspired by the work of [datastacktv](https://github.com/datastacktv/data-engineer-roadmap).
+
+Learn more about the amazing things we are doing from our [Discord]().
+
+### Contributors
+- ...
