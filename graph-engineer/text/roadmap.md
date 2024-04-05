@@ -57,7 +57,9 @@
 	* Memgraph
 	* Kuzudb
 	* PuppyGraph
-	* 
+	* Ontotext
+	* Stardog
+	
 
 * Object storage
 	* AWS S3 [general recommendation]
