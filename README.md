@@ -17,7 +17,7 @@ This roadmap aims to give a **complete picture of the graph data engineering lan
 
 ***
 
-![Graph Engineer Roadmap - Draft](img/Screenshot_213.jpg)
+![Graph Engineer Roadmap - Draft](graph-engineer/img/Screenshot_213.jpg)
 
 2. **Graph Data Scientist:**
    Graph data scientists are individuals equipped with expertise in data science and analytics, who utilize graph data science algorithms to derive insights and solutions for business use cases. The roadmap for graph data scientists will encompass foundational concepts in data science, machine learning, and statistics, along with specialized techniques for analyzing and interpreting graph data. Topics such as graph algorithms, centrality measures, community detection, and graph embedding techniques will be covered in detail.
