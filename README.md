@@ -7,6 +7,18 @@ We have developed two distinct roadmaps, each with its unique focus, yet converg
 1. **Graph Engineering:**
    A graph engineer possesses a combination of software engineering and data engineering skills, along with a deep understanding of graph data. This includes proficiency in graph data modeling, knowledge graph and experience working with graph databases. The roadmap for graph engineering will cover essential topics such as graph theory, data structures, graph databases, query languages, and best practices for designing and implementing graph-based solutions.
 
+This roadmap aims to give a **complete picture of the graph data engineering landscape** and serve as a **study guide** for aspiring graph engineers.
+
+***
+
+<h3 align="center"><strong>Note to beginners</strong></h3>
+
+> In your journey you shouldn't feel overwhelmed by the numble of concept and framework listed here. As a graph engineer you are expected to master a few tools for several years depending on your organization requirements and interest. Example, if your company doesn't work with RDF, but instead LPG. You should master LPGs
+
+***
+
+![Graph Engineer Roadmap - Draft](img/Screenshot_213.jpg)
+
 2. **Graph Data Scientist:**
    Graph data scientists are individuals equipped with expertise in data science and analytics, who utilize graph data science algorithms to derive insights and solutions for business use cases. The roadmap for graph data scientists will encompass foundational concepts in data science, machine learning, and statistics, along with specialized techniques for analyzing and interpreting graph data. Topics such as graph algorithms, centrality measures, community detection, and graph embedding techniques will be covered in detail.
 
